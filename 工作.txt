@@ -1,0 +1,17 @@
+工作：（本学期就业派遣时间：11-12号开始 第一批  12月中旬第二批）
+    会学习：js Es6 Es7、css   webpack  Ajax json  LESS、SASS  mvvm设计模式 noedejs   git （svn的视频）
+            bootstrap  主流UI库：vue mint-ui element-ui .. 自已封装ui库  jquery zepto
+            vue全家桶(Vue+Vue-router+Vuex+axios)  canvas是一个html5中新增的画布（js+html画图）
+	    对Socket通信，TCP/IP和HTTP有较深刻理解和经验
+            SQL NoSQL
+
+    自学：微信小程序  React(React插件Redux）
+
+
+    前端：标准工资 1.5w左右 实习：5000-6000
+    网页：标准工资 7K左右 实习：3000-4000
+    ui：标准工资 1w左右 实习：5000左右
+
+
+    
+    
